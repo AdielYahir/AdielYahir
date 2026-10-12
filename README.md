@@ -29,3 +29,4 @@ My portfolio includes projects focused on data cleaning, analysis, visualization
 ## Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/adiel-yahir/
+- Notion: https://gentle-strand-02c.notion.site/Adiel-Yahir-Data-Analytics-jr-Portfolio-1dcda5dd3b5180ceb264e14abe390c9a
